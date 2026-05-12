@@ -7,7 +7,10 @@ permalink: /superteset.html
 # a cloud visualization will be added below the content in this file
 cloud-fields: site.data.theme.locations-fields
 ---
+What if we needed topics
+could you add an image?
 
+BOLD text is this editable elsewhere?
 ## Browse Locations
 
 Use this word cloud visualization to browse locations.
