@@ -19,6 +19,9 @@ Richard M. Daley more than doubled the number of Chicago’s Sister Cities as th
 
 {% include feature/image.html objectid="cbdemo08" width="50" %}
 
+
+cbdemo08
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 {% include feature/video.html objectid="cbdemo09" %}
