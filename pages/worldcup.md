@@ -1,6 +1,5 @@
 ---
 title: World Cup
-layout: tezt
 permalink: /worldcup.html
 # include CollectionBuilder info at bottom
 credits: true
