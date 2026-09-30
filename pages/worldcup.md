@@ -38,5 +38,5 @@ We have every ethnic and racial group here in this city, and world soccer will h
 
 {% include feature/image.html objectid="cbdemo15" width="50" %}
 
-{% include feature/button.html text="Previous Page" link="https://collectionbuilder.github.io/" color="success" %}
-{% include feature/button.html text="Next Page" link="https://collectionbuilder.github.io/" color="success" %}
+{% include feature/button.html text="Previous Page" link="https://collectionbuilder.github.io/" color="success" width="50" %}
+{% include feature/button.html text="Next Page" link="https://collectionbuilder.github.io/" color="success" width="50" %}
