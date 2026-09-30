@@ -41,4 +41,7 @@ We have every ethnic and racial group here in this city, and world soccer will h
 {% include feature/image.html objectid="cbdemo14" width="50" %}
 
 {% include feature/button.html text="Previous Page" link="https://collectionbuilder.github.io/" color="success" %}
+
+<div align="left"> <button class="my-custom-button" type="button"> Click Me</button></div>
+<div align="right"> <button class="my-custom-button" type="button"> Click Me</button></div>
 {% include feature/button.html text="Next Page" link="https://collectionbuilder.github.io/" color="success" %}
