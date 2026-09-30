@@ -7,12 +7,14 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/jumbotron.html objectid="" %}
+
 
 ## World Cup 1994
 In the early 1990s, soccer was not as popular in Chicago as it would later become. But it was the most popular sport around the world, drawing billions of television viewers.
 Mayor Daley saw the chance to host parts of the World Cup festivities as a tremendous economic opportunity for the city. The events would draw tens of thousands of visitors and millions of dollars into Chicago’s economy. The mayor's staff also saw the World Cup as a chance to elevate the city’s image around the world.
 
-{% include feature/image.html objectid="cbdemo14" width="50" %}
+{% include feature/image.html objectid="cbdemo15" width="50" %}
 
 Document
 
@@ -36,7 +38,7 @@ We have every ethnic and racial group here in this city, and world soccer will h
 
 {% include feature/image.html objectid="cbdemo16" width="50" %}
 
-{% include feature/image.html objectid="cbdemo15" width="50" %}
+{% include feature/image.html objectid="cbdemo14" width="50" %}
 
-{% include feature/button.html text="Previous Page" link="https://collectionbuilder.github.io/" color="success" width="50" %}
-{% include feature/button.html text="Next Page" link="https://collectionbuilder.github.io/" color="success" width="50" %}
+{% include feature/button.html text="Previous Page" link="https://collectionbuilder.github.io/" color="success" %}
+{% include feature/button.html text="Next Page" link="https://collectionbuilder.github.io/" color="success" %}
