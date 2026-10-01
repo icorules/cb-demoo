@@ -1,9 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
+Global City,/global.html
+A Livable City,/livablecity.html
 Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Global,/global.html
 Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
