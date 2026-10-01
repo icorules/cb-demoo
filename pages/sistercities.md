@@ -30,4 +30,5 @@ This signing ceremony in the mayor’s office in City Hall added Kiev to the lis
 {% include feature/image.html objectid="cbdemo13" width="50" %}
 A program from this 2009 Sister Cities event shows that the mayor used the opportunity to promote Chicago as “A Global City.”
 
-{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}
+{% include feature/button.html text="Previous" link="https://collectionbuilder.github.io/" color="success" %}
+{% include feature/button.html text="Next" link="https://collectionbuilder.github.io/" color="success" %}
