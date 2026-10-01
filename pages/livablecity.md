@@ -12,7 +12,7 @@ credits: true
 
 ## Intro to A Livable City
 
-Contents
-[Intro to A Livable City](https://icorules.github.io/cb-demoo/livablecity.html)
-[The Basics](https://library.uic.edu)
-[This is an external link to genome.gov](https://library.uic.edu)
+Contents<br>
+[Intro to A Livable City](https://icorules.github.io/cb-demoo/livablecity.html) <br>
+[The Basics](https://library.uic.edu) <br>
+[Fixing Eyesores](https://library.uic.edu)
