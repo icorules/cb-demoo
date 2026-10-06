@@ -27,11 +27,11 @@ At a press conference announcing Chicago's successful bid to serve as a host sit
 We have every ethnic and racial group here in this city, and world soccer will help portray Chicago as an international city.
 
 
-{% include feature/video.html objectid="https://www.youtube.com/watch?v=d0mUVPn4gBQe" width="50" caption="Gery Chico explains that the city used the World Cup to present Chicago to global leaders:"%}
+{% include feature/video.html objectid="cbdemo18" width="50" caption="Gery Chico explains that the city used the World Cup to present Chicago to global leaders:"%}
 
 Sarah Pang explains that the World Cup was Chicago's “coming out to the whole world,” an early effort in a long-term campaign to attract global attention to Chicago--but the mayor also invited the city's diverse communities to help build the international connections:
 
-{% include feature/video.html objectid="https://www.youtube.com/watch?v=d0mUVPn4gBQe" width="50" caption="Gery Chico explains that the city used the World Cup to present Chicago to global leaders:"%}
+{% include feature/video.html objectid="cbdemo19" width="50" caption="Gery Chico explains that the city used the World Cup to present Chicago to global leaders:"%}
 
 At a press conference announcing Chicago's successful bid to serve as a host site for World Cup, Mayor Daley said,
 We have every ethnic and racial group here in this city, and world soccer will help portray Chicago as an international city.
