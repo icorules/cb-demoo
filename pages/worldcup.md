@@ -16,9 +16,6 @@ Mayor Daley saw the chance to host parts of the World Cup festivities as a treme
 
 {% include feature/image.html objectid="cbdemo15" width="50" %}
 
-Document
-
-
 In a memo to Mayor Daley, Kathy Osterman, director of the Mayor’s Office of Special Events, pointed out that with the eyes of global soccer fans aimed at the host city, the sporting event would be “an unparalleled opportunity to encourage subsequent tourism by showing the world how beautiful Chicago is as a city.”
 
 {% include feature/image.html objectid="cbdemo16" width="50" %}
@@ -27,11 +24,11 @@ At a press conference announcing Chicago's successful bid to serve as a host sit
 We have every ethnic and racial group here in this city, and world soccer will help portray Chicago as an international city.
 
 
-{% include feature/video.html objectid="cbdemo18" width="50" caption="Gery Chico explains that the city used the World Cup to present Chicago to global leaders:"%}
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=d0mUVPn4gBQ" width="50" caption="Gery Chico explains that the city used the World Cup to present Chicago to global leaders:"%}
 
 Sarah Pang explains that the World Cup was Chicago's “coming out to the whole world,” an early effort in a long-term campaign to attract global attention to Chicago--but the mayor also invited the city's diverse communities to help build the international connections:
 
-{% include feature/video.html objectid="https://www.youtube.com/watch?v=kV8M5-J4eTg" width="50" caption="Sarah Pang explains that the city used the World Cup to present Chicago to global leaders:"%}
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=kV8M5-J4eTg" width="50" caption="Sarah Pang explains that the World Cup was Chicago's “coming out to the whole world,” an early effort in a long-term campaign to attract global attention to Chicago--but the mayor also invited the city's diverse communities to help build the international connections: "%}
 
 At a press conference announcing Chicago's successful bid to serve as a host site for World Cup, Mayor Daley said,
 We have every ethnic and racial group here in this city, and world soccer will help portray Chicago as an international city.
