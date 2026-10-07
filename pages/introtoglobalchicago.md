@@ -8,4 +8,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="" %}
+
+{% include feature/image.html objectid="cbdemo20" width="50" %}
+
 As part of an effort to cultivate Chicago's image as a global city, Mayor Daley embarked on a number of initiatives to heighten the city's visibility and demonstrate the city's importance as an international center.
