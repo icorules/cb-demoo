@@ -21,7 +21,8 @@ Richard M. Daley more than doubled the number of Chicago’s Sister Cities as th
 
 {% include feature/video.html objectid="https://youtu.be/a9mLbmFkEFc?si=AJ84HpTH-cNAg-we" width="50" caption="Melody Hobson comments on Chicago's Sister Cities"%}
 
-More Information
+##More Information
+
 {% include feature/image.html objectid="cbdemo09" width="50" %}
 This signing ceremony in the mayor’s office in City Hall added Kiev to the list of Chicago’s Sister Cities.
 
