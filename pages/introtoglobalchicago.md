@@ -12,3 +12,8 @@ credits: true
 {% include feature/image.html objectid="cbdemo20" width="75" %}
 
 As part of an effort to cultivate Chicago's image as a global city, Mayor Daley embarked on a number of initiatives to heighten the city's visibility and demonstrate the city's importance as an international center.
+
+Contents<br>
+[Introduction to Global Chicago](https://icorules.github.io/cb-demoo/introglobalchicago) <br>
+[Sister Cities](https://icorules.github.io/cb-demoo/sistercities.html) <br>
+[World Cup 1994](https://icorules.github.io/cb-demoo/worldcup)
