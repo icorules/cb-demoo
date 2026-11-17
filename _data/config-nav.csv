@@ -1,6 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/
-Global City,/globalcities.html
+Global Chicago,/globalcities.html,,
+Intro to Global Chicago,/introglobalchicago.html,Intro to Global Chicago,
 A Livable City,/livablecity.html
 Browse,/browse.html
 Map,/map.html
